@@ -1,0 +1,17 @@
+h1 {
+    font-weight: 900;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
+
+p,h2,h3 {
+    font-weight: 700;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 30px;
+    font-family: monospace;
+}
